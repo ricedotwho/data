@@ -1,0 +1,8183 @@
+[
+  {
+    "name": "Admin",
+    "secrets": []
+  },
+  {
+    "name": "Altar",
+    "secrets": [
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 70.0,
+          "z": 33.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 81.0,
+          "z": 29.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 4.0,
+          "y": 83.0,
+          "z": 28.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 76.0,
+          "z": 1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 92.0,
+          "z": 2.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 93.0,
+          "z": 12.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 36.0,
+          "y": 88.0,
+          "z": 30.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 32.0,
+          "y": 59.0,
+          "z": 31.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 55.0,
+          "z": 25.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 21.0,
+          "y": 56.0,
+          "z": 20.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -11.0,
+          "y": 55.0,
+          "z": 25.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 45.0,
+          "z": 37.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 43.0,
+          "z": 24.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 44.0,
+          "z": 24.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Andesite",
+    "secrets": [
+      {
+        "pos": {
+          "x": -14.0,
+          "y": 69.0,
+          "z": 14.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 69.0,
+          "z": 7.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Archway",
+    "secrets": [
+      {
+        "pos": {
+          "x": -14.0,
+          "y": 70.0,
+          "z": -13.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 85.0,
+          "z": 12.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 39.0,
+          "y": 89.0,
+          "z": -3.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Arrow Trap",
+    "secrets": [
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 70.0,
+          "z": 7.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 70.0,
+          "z": 8.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 69.0,
+          "z": -11.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Atlas",
+    "secrets": [
+      {
+        "pos": {
+          "x": 32.0,
+          "y": 76.0,
+          "z": -4.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 26.0,
+          "y": 78.0,
+          "z": -8.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 23.0,
+          "y": 78.0,
+          "z": -11.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 21.0,
+          "y": 57.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 39.0,
+          "y": 75.0,
+          "z": 14.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 40.0,
+          "y": 76.0,
+          "z": 13.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 44.0,
+          "y": 89.0,
+          "z": 18.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 45.0,
+          "y": 90.0,
+          "z": 18.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 80.0,
+          "z": 17.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -2.0,
+          "y": 82.0,
+          "z": 16.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 82.0,
+          "z": 16.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 68.0,
+          "z": 37.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 81.0,
+          "z": 38.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 78.0,
+          "z": 37.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 72.0,
+          "z": 42.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Balcony",
+    "secrets": [
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 68.0,
+          "z": 0.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 69.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 55.0,
+          "z": -9.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 54.0,
+          "z": -9.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 54.0,
+          "z": -10.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 54.0,
+          "z": -10.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -2.0,
+          "y": 50.0,
+          "z": -8.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 42.0,
+          "z": 13.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -11.0,
+          "y": 60.0,
+          "z": 13.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Banners",
+    "secrets": [
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 72.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Basement",
+    "secrets": [
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 66.0,
+          "z": 10.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Beams",
+    "secrets": [
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 81.0,
+          "z": -13.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 92.0,
+          "z": 9.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Big Red Flag",
+    "secrets": [
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 75.0,
+          "z": 11.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 6.0,
+          "y": 75.0,
+          "z": 7.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Black Flag",
+    "secrets": [
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 80.0,
+          "z": -12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 80.0,
+          "z": 10.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 7.0,
+          "y": 60.0,
+          "z": 12.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Blood",
+    "secrets": []
+  },
+  {
+    "name": "Blue Skulls",
+    "secrets": [
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 77.0,
+          "z": 14.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Bomb Defuse",
+    "secrets": []
+  },
+  {
+    "name": "Boulder",
+    "secrets": [
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 68.0,
+          "z": 9.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 65.0,
+          "z": 11.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Bridges",
+    "secrets": [
+      {
+        "pos": {
+          "x": 25.0,
+          "y": 64.0,
+          "z": 1.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 39.0,
+          "y": 59.0,
+          "z": 13.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 36.0,
+          "y": 58.0,
+          "z": 5.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 36.0,
+          "y": 59.0,
+          "z": 4.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 36.0,
+          "y": 56.0,
+          "z": 1.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 52.0,
+          "z": 2.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 53.0,
+          "z": -2.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 26.0,
+          "y": 52.0,
+          "z": 6.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -12.0,
+          "y": 82.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 40.0,
+          "y": 81.0,
+          "z": 2.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 33.0,
+          "y": 92.0,
+          "z": -8.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 27.0,
+          "y": 96.0,
+          "z": -11.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Buttons",
+    "secrets": [
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 68.0,
+          "z": 16.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 55.0,
+          "z": 16.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 80.0,
+          "z": 35.0
+        },
+        "type": "TNT_PEARL",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 81.0,
+          "z": 35.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 80.0,
+          "z": 35.0
+        },
+        "type": "TNT_PEARL",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 22.0,
+          "y": 79.0,
+          "z": 43.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 23.0,
+          "y": 81.0,
+          "z": 43.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 27.0,
+          "y": 81.0,
+          "z": 42.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 37.0,
+          "y": 72.0,
+          "z": 44.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 74.0,
+          "z": 44.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 41.0,
+          "y": 70.0,
+          "z": 39.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 42.0,
+          "y": 69.0,
+          "z": 45.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 37.0,
+          "y": 70.0,
+          "z": 28.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 37.0,
+          "y": 71.0,
+          "z": 27.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 37.0,
+          "y": 71.0,
+          "z": 26.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 43.0,
+          "y": 70.0,
+          "z": 21.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 19.0,
+          "y": 73.0,
+          "z": -2.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 18.0,
+          "y": 75.0,
+          "z": -2.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 73.0,
+          "z": -2.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 68.0,
+          "z": -1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 41.0,
+          "y": 79.0,
+          "z": -2.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 41.0,
+          "y": 81.0,
+          "z": -13.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Cage",
+    "secrets": [
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 72.0,
+          "z": 5.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Cages",
+    "secrets": [
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 98.0,
+          "z": -10.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 85.0,
+          "z": -13.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 58.0,
+          "z": -4.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Carpets",
+    "secrets": [
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 85.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Cathedral",
+    "secrets": [
+      {
+        "pos": {
+          "x": 30.0,
+          "y": 60.0,
+          "z": 26.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 23.0,
+          "y": 59.0,
+          "z": 21.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 34.0,
+          "y": 80.0,
+          "z": 40.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 18.0,
+          "y": 92.0,
+          "z": 38.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 18.0,
+          "y": 92.0,
+          "z": 32.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 85.0,
+          "z": 32.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 85.0,
+          "z": 32.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 87.0,
+          "z": 31.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 89.0,
+          "z": 28.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 89.0,
+          "z": 29.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 84.0,
+          "z": 11.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 84.0,
+          "z": 9.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 83.0,
+          "z": 9.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 70.0,
+          "z": 9.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 4.0,
+          "y": 60.0,
+          "z": -8.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 82.0,
+          "z": -12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 44.0,
+          "y": 87.0,
+          "z": -12.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 34.0,
+          "y": 58.0,
+          "z": 8.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Catwalk",
+    "secrets": [
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 62.0,
+          "z": 9.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 63.0,
+          "z": 11.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 63.0,
+          "z": 12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 49.0,
+          "z": 9.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 51.0,
+          "z": 5.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 50.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 32.0,
+          "y": 58.0,
+          "z": 8.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 70.0,
+          "y": 63.0,
+          "z": 5.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 69.0,
+          "y": 63.0,
+          "z": -1.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 74.0,
+          "y": 49.0,
+          "z": 3.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 68.0,
+          "y": 50.0,
+          "z": 6.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 67.0,
+          "y": 51.0,
+          "z": 5.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 67.0,
+          "y": 48.0,
+          "z": 1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 67.0,
+          "y": 50.0,
+          "z": -3.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 65.0,
+          "y": 50.0,
+          "z": -7.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 65.0,
+          "y": 50.0,
+          "z": -9.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Cell",
+    "secrets": [
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 70.0,
+          "z": 5.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 69.0,
+          "z": 7.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Chains",
+    "secrets": [
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 69.0,
+          "z": -5.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 86.0,
+          "z": -1.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Chambers",
+    "secrets": [
+      {
+        "pos": {
+          "x": -2.0,
+          "y": 80.0,
+          "z": -10.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 83.0,
+          "z": -13.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 85.0,
+          "z": -3.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 87.0,
+          "z": -2.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 70.0,
+          "z": 23.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 69.0,
+          "z": 25.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 70.0,
+          "z": 41.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -11.0,
+          "y": 69.0,
+          "z": 42.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 76.0,
+          "z": 43.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 79.0,
+          "z": 43.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 18.0,
+          "y": 83.0,
+          "z": 41.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 57.0,
+          "z": 32.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Cobble Wall Pillar",
+    "secrets": [
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 69.0,
+          "z": 8.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 60.0,
+          "z": -3.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 61.0,
+          "z": 2.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Creeper Beams",
+    "secrets": []
+  },
+  {
+    "name": "Criss-Cross",
+    "secrets": [
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 75.0,
+          "z": 10.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 75.0,
+          "z": 14.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 66.0,
+          "z": -9.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Crypt",
+    "secrets": [
+      {
+        "pos": {
+          "x": 18.0,
+          "y": 80.0,
+          "z": 8.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 81.0,
+          "z": 1.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -2.0,
+          "y": 87.0,
+          "z": -8.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 89.0,
+          "z": -9.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 4.0,
+          "y": 89.0,
+          "z": -13.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 88.0,
+          "z": -7.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 89.0,
+          "z": -6.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 25.0,
+          "y": 81.0,
+          "z": -14.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 85.0,
+          "z": -7.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 29.0,
+          "y": 86.0,
+          "z": 11.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 31.0,
+          "y": 86.0,
+          "z": 9.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 31.0,
+          "y": 87.0,
+          "z": 8.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 31.0,
+          "y": 87.0,
+          "z": 5.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 31.0,
+          "y": 87.0,
+          "z": 0.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 19.0,
+          "y": 68.0,
+          "z": 10.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 68.0,
+          "z": 0.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -2.0,
+          "y": 60.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Deathmite",
+    "secrets": [
+      {
+        "pos": {
+          "x": 74.0,
+          "y": 70.0,
+          "z": -5.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 74.0,
+          "y": 68.0,
+          "z": -9.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 54.0,
+          "y": 60.0,
+          "z": -5.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 56.0,
+          "y": 80.0,
+          "z": 0.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 52.0,
+          "y": 82.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 68.0,
+          "y": 99.0,
+          "z": 11.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 68.0,
+          "y": 92.0,
+          "z": 12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 70.0,
+          "z": 0.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 70.0,
+          "z": 0.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 69.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Default",
+    "secrets": []
+  },
+  {
+    "name": " onal",
+    "secrets": [
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 60.0,
+          "z": -6.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 54.0,
+          "y": 60.0,
+          "z": 14.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 54.0,
+          "y": 74.0,
+          "z": 0.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 71.0,
+          "y": 78.0,
+          "z": -1.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 75.0,
+          "y": 77.0,
+          "z": -1.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 71.0,
+          "z": -9.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 60.0,
+          "z": -6.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Dino Site",
+    "secrets": [
+      {
+        "pos": {
+          "x": 23.0,
+          "y": 93.0,
+          "z": 12.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 23.0,
+          "y": 92.0,
+          "z": 18.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 30.0,
+          "y": 73.0,
+          "z": -2.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 41.0,
+          "y": 53.0,
+          "z": -5.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 43.0,
+          "y": 53.0,
+          "z": 14.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 49.0,
+          "z": 13.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 40.0,
+          "y": 55.0,
+          "z": -9.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 7.0,
+          "y": 55.0,
+          "z": 7.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 56.0,
+          "z": 11.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 52.0,
+          "z": -2.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 52.0,
+          "z": -4.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Dip",
+    "secrets": [
+      {
+        "pos": {
+          "x": 4.0,
+          "y": 79.0,
+          "z": 11.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 6.0,
+          "y": 80.0,
+          "z": 2.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 78.0,
+          "z": 1.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 78.0,
+          "z": 9.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Dome",
+    "secrets": [
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 75.0,
+          "z": 6.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 76.0,
+          "z": 7.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 78.0,
+          "z": 12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 77.0,
+          "z": 10.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 78.0,
+          "z": 10.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Doors",
+    "secrets": [
+      {
+        "pos": {
+          "x": 32.0,
+          "y": 59.0,
+          "z": 6.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 31.0,
+          "y": 59.0,
+          "z": 2.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 30.0,
+          "y": 59.0,
+          "z": 0.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 29.0,
+          "y": 59.0,
+          "z": 1.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 28.0,
+          "y": 59.0,
+          "z": 0.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 30.0,
+          "y": 66.0,
+          "z": 1.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 25.0,
+          "y": 59.0,
+          "z": 10.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 51.0,
+          "z": 2.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 58.0,
+          "z": 2.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 58.0,
+          "z": -2.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Double Diamond",
+    "secrets": [
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 64.0,
+          "z": 7.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 68.0,
+          "z": 8.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 70.0,
+          "z": -5.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 69.0,
+          "z": -9.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 77.0,
+          "z": 4.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 80.0,
+          "z": 4.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 82.0,
+          "z": 4.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 6.0,
+          "y": 87.0,
+          "z": 10.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 88.0,
+          "z": 11.0
+        },
+        "type": "LEVER",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Dragon",
+    "secrets": []
+  },
+  {
+    "name": "Drop",
+    "secrets": [
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 59.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 77.0,
+          "z": -13.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Dueces",
+    "secrets": [
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 70.0,
+          "z": -13.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 69.0,
+          "z": -9.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 73.0,
+          "z": -8.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -14.0,
+          "y": 73.0,
+          "z": 0.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 77.0,
+          "z": 0.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 78.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Duncan",
+    "secrets": [
+      {
+        "pos": {
+          "x": -2.0,
+          "y": 89.0,
+          "z": -7.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "End",
+    "secrets": [
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 80.0,
+          "z": -1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 84.0,
+          "z": -10.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 69.0,
+          "z": -9.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 64.0,
+          "z": 3.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 63.0,
+          "z": -13.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Entrance",
+    "secrets": []
+  },
+  {
+    "name": "Fairy",
+    "secrets": []
+  },
+  {
+    "name": "Flags",
+    "secrets": [
+      {
+        "pos": {
+          "x": 37.0,
+          "y": 69.0,
+          "z": 5.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 37.0,
+          "y": 71.0,
+          "z": 6.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 69.0,
+          "z": 8.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 37.0,
+          "y": 77.0,
+          "z": 23.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 44.0,
+          "y": 87.0,
+          "z": 26.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 107.0,
+          "z": 20.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 108.0,
+          "z": 26.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 108.0,
+          "z": 19.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 108.0,
+          "z": 12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 97.0,
+          "z": -8.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 22.0,
+          "y": 67.0,
+          "z": 43.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Gold",
+    "secrets": [
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 70.0,
+          "z": 0.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 69.0,
+          "z": -2.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Golden Oasis",
+    "secrets": [
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 63.0,
+          "z": 8.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -2.0,
+          "y": 63.0,
+          "z": 10.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 71.0,
+          "z": -7.0
+        },
+        "type": "REDSTONE_KEY",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Grand Library",
+    "secrets": [
+      {
+        "pos": {
+          "x": 21.0,
+          "y": 67.0,
+          "z": 0.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 19.0,
+          "y": 65.0,
+          "z": 0.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 58.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 57.0,
+          "z": 3.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 24.0,
+          "y": 64.0,
+          "z": 0.0
+        },
+        "type": "PEARL_ETHER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 93.0,
+          "z": -13.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 78.0,
+          "z": 0.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 80.0,
+          "z": -4.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 80.0,
+          "z": -12.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Granite",
+    "secrets": [
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 60.0,
+          "z": 11.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -2.0,
+          "y": 61.0,
+          "z": 14.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Grass Ruin",
+    "secrets": [
+      {
+        "pos": {
+          "x": 26.0,
+          "y": 79.0,
+          "z": 5.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 31.0,
+          "y": 81.0,
+          "z": 9.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 33.0,
+          "y": 81.0,
+          "z": 9.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 82.0,
+          "z": 13.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 53.0,
+          "z": 9.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -12.0,
+          "y": 55.0,
+          "z": -1.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 107.0,
+          "z": -5.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Gravel",
+    "secrets": [
+      {
+        "pos": {
+          "x": 77.0,
+          "y": 69.0,
+          "z": -12.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 72.0,
+          "y": 68.0,
+          "z": -7.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 74.0,
+          "y": 79.0,
+          "z": -6.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 51.0,
+          "y": 87.0,
+          "z": -1.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 52.0,
+          "y": 86.0,
+          "z": -3.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 48.0,
+          "y": 69.0,
+          "z": 10.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 48.0,
+          "y": 69.0,
+          "z": 11.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 18.0,
+          "y": 70.0,
+          "z": -4.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 20.0,
+          "y": 69.0,
+          "z": -4.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 24.0,
+          "y": 91.0,
+          "z": -1.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Hall",
+    "secrets": []
+  },
+  {
+    "name": "Hallway",
+    "secrets": [
+      {
+        "pos": {
+          "x": 77.0,
+          "y": 76.0,
+          "z": 5.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 66.0,
+          "y": 77.0,
+          "z": -14.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 70.0,
+          "y": 85.0,
+          "z": -9.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 36.0,
+          "y": 70.0,
+          "z": -10.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 39.0,
+          "y": 69.0,
+          "z": -10.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 69.0,
+          "z": -6.0
+        },
+        "type": "TNT_PEARL",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 69.0,
+          "z": -12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 75.0,
+          "z": -9.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Higher Blaze",
+    "secrets": [
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 118.0,
+          "z": 12.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Ice Fill",
+    "secrets": []
+  },
+  {
+    "name": "Ice Path",
+    "secrets": []
+  },
+  {
+    "name": "Jumping Skulls",
+    "secrets": [
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 62.0,
+          "z": 8.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "King Midas",
+    "secrets": []
+  },
+  {
+    "name": "Knight",
+    "secrets": [
+      {
+        "pos": {
+          "x": -12.0,
+          "y": 70.0,
+          "z": -6.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 69.0,
+          "z": 14.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 69.0,
+          "z": 14.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -14.0,
+          "y": 76.0,
+          "z": 13.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Lava Pit",
+    "secrets": [
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 92.0,
+          "z": -12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 88.0,
+          "z": -1.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 61.0,
+          "z": 2.0
+        },
+        "type": "PEARL",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 63.0,
+          "z": -2.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Lava Ravine",
+    "secrets": [
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 65.0,
+          "z": -18.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 66.0,
+          "z": -17.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 50.0,
+          "z": -15.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 66.0,
+          "z": 9.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 68.0,
+          "z": 10.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 67.0,
+          "z": 10.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 26.0,
+          "y": 85.0,
+          "z": 0.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 43.0,
+          "y": 86.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 84.0,
+          "z": -8.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 85.0,
+          "z": -6.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 84.0,
+          "z": -5.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 91.0,
+          "z": -23.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 88.0,
+          "z": -35.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 89.0,
+          "z": -36.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 88.0,
+          "z": -40.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 88.0,
+          "z": -38.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Layers",
+    "secrets": [
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 70.0,
+          "z": 14.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 70.0,
+          "z": -8.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 72.0,
+          "z": -8.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 75.0,
+          "z": -13.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 76.0,
+          "z": -13.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 69.0,
+          "z": -13.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -11.0,
+          "y": 70.0,
+          "z": 28.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 87.0,
+          "z": 39.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 92.0,
+          "z": 44.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 95.0,
+          "z": 41.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 90.0,
+          "z": 16.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 91.0,
+          "z": 17.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 25.0,
+          "y": 77.0,
+          "z": 39.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 39.0,
+          "y": 78.0,
+          "z": 41.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 37.0,
+          "y": 78.0,
+          "z": 39.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 37.0,
+          "y": 80.0,
+          "z": 38.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 34.0,
+          "y": 79.0,
+          "z": 27.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 32.0,
+          "y": 78.0,
+          "z": 19.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 29.0,
+          "y": 78.0,
+          "z": 25.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 29.0,
+          "y": 77.0,
+          "z": 25.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 32.0,
+          "y": 70.0,
+          "z": 30.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 32.0,
+          "y": 69.0,
+          "z": 32.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 20.0,
+          "y": 58.0,
+          "z": 36.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Leaves",
+    "secrets": [
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 81.0,
+          "z": 12.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Locked Away",
+    "secrets": [
+      {
+        "pos": {
+          "x": 7.0,
+          "y": 76.0,
+          "z": 13.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 75.0,
+          "z": 14.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 75.0,
+          "z": 14.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Logs",
+    "secrets": [
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 82.0,
+          "z": 10.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 84.0,
+          "z": 13.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 68.0,
+          "z": 0.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -14.0,
+          "y": 70.0,
+          "z": 9.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -14.0,
+          "y": 70.0,
+          "z": 8.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 77.0,
+          "z": 8.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 78.0,
+          "z": 8.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 78.0,
+          "z": 9.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Long Hall",
+    "secrets": [
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 77.0,
+          "z": 4.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 80.0,
+          "z": 4.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 81.0,
+          "z": 13.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 82.0,
+          "z": 13.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 84.0,
+          "z": 13.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -2.0,
+          "y": 84.0,
+          "z": 13.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 82.0,
+          "z": 13.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 70.0,
+          "z": -1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 69.0,
+          "z": -1.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 66.0,
+          "z": -1.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 62.0,
+          "z": 3.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 68.0,
+          "z": 1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Lots Of Floors",
+    "secrets": [
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 70.0,
+          "z": 6.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 69.0,
+          "z": 13.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -14.0,
+          "y": 76.0,
+          "z": -10.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 83.0,
+          "z": -6.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 84.0,
+          "z": -8.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Lower Blaze",
+    "secrets": [
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 68.0,
+          "z": 12.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Mage",
+    "secrets": [
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 77.0,
+          "z": -1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 70.0,
+          "z": -1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 70.0,
+          "z": 2.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 24.0,
+          "y": 64.0,
+          "z": 0.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 27.0,
+          "y": 62.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 43.0,
+          "y": 82.0,
+          "z": -10.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 42.0,
+          "y": 83.0,
+          "z": -8.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Market",
+    "secrets": [
+      {
+        "pos": {
+          "x": 28.0,
+          "y": 74.0,
+          "z": 32.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 30.0,
+          "y": 78.0,
+          "z": 33.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 31.0,
+          "y": 79.0,
+          "z": 33.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 17.0,
+          "y": 61.0,
+          "z": 33.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 17.0,
+          "y": 66.0,
+          "z": 26.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 67.0,
+          "z": 37.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 59.0,
+          "z": 29.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 87.0,
+          "z": 37.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 87.0,
+          "z": 38.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 86.0,
+          "z": 38.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 86.0,
+          "z": 37.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 87.0,
+          "z": 37.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 86.0,
+          "z": 37.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 87.0,
+          "z": 38.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 86.0,
+          "z": 38.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 86.0,
+          "z": 41.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Melon",
+    "secrets": [
+      {
+        "pos": {
+          "x": -12.0,
+          "y": 69.0,
+          "z": -11.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 84.0,
+          "z": -10.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 6.0,
+          "y": 85.0,
+          "z": -9.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 84.0,
+          "z": 0.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 15.0,
+          "y": 80.0,
+          "z": -1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 80.0,
+          "z": -6.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 35.0,
+          "y": 74.0,
+          "z": 11.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 35.0,
+          "y": 73.0,
+          "z": 11.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 35.0,
+          "y": 71.0,
+          "z": 13.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 32.0,
+          "y": 69.0,
+          "z": 12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 40.0,
+          "y": 77.0,
+          "z": 20.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 36.0,
+          "y": 71.0,
+          "z": 22.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 36.0,
+          "y": 72.0,
+          "z": 28.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 35.0,
+          "y": 81.0,
+          "z": 42.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 42.0,
+          "y": 82.0,
+          "z": 43.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 28.0,
+          "y": 84.0,
+          "z": 30.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 21.0,
+          "y": 79.0,
+          "z": 46.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Mines",
+    "secrets": [
+      {
+        "pos": {
+          "x": 25.0,
+          "y": 78.0,
+          "z": -3.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 26.0,
+          "y": 80.0,
+          "z": -3.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 78.0,
+          "z": 10.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 80.0,
+          "z": 9.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 82.0,
+          "z": 6.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 17.0,
+          "y": 97.0,
+          "z": 27.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 99.0,
+          "z": 43.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 19.0,
+          "y": 100.0,
+          "z": -7.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 108.0,
+          "z": 2.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 110.0,
+          "z": 13.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 109.0,
+          "z": 15.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 110.0,
+          "z": 17.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 112.0,
+          "z": 18.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 112.0,
+          "z": 25.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -14.0,
+          "y": 88.0,
+          "z": 42.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 91.0,
+          "z": 45.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 15.0,
+          "y": 93.0,
+          "z": 45.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 19.0,
+          "y": 79.0,
+          "z": 44.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 41.0,
+          "y": 78.0,
+          "z": 43.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 46.0,
+          "z": 0.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 47.0,
+          "z": -6.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 41.0,
+          "y": 42.0,
+          "z": 26.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 45.0,
+          "y": 43.0,
+          "z": 35.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 51.0,
+          "z": 26.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 51.0,
+          "z": 26.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -11.0,
+          "y": 53.0,
+          "z": 41.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Mini Rails",
+    "secrets": [
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 83.0,
+          "z": 6.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 73.0,
+          "z": -5.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 74.0,
+          "z": -4.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 59.0,
+          "z": -8.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 63.0,
+          "z": -6.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 63.0,
+          "z": -8.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 68.0,
+          "z": -6.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Mirror",
+    "secrets": [
+      {
+        "pos": {
+          "x": -12.0,
+          "y": 55.0,
+          "z": 2.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Mossy",
+    "secrets": [
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 70.0,
+          "z": -8.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 69.0,
+          "z": -11.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 77.0,
+          "z": -6.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 32.0,
+          "y": 88.0,
+          "z": -6.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 33.0,
+          "y": 90.0,
+          "z": -8.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 32.0,
+          "y": 89.0,
+          "z": -11.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 46.0,
+          "y": 93.0,
+          "z": -1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 48.0,
+          "y": 95.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 48.0,
+          "y": 70.0,
+          "z": 14.0
+        },
+        "type": "LEVER",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Multicolored",
+    "secrets": [
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 70.0,
+          "z": -11.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Mural",
+    "secrets": [
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 83.0,
+          "z": -8.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Museum",
+    "secrets": [
+      {
+        "pos": {
+          "x": 18.0,
+          "y": 83.0,
+          "z": -1.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 19.0,
+          "y": 83.0,
+          "z": -4.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 24.0,
+          "y": 72.0,
+          "z": 0.0
+        },
+        "type": "PEARL",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 81.0,
+          "z": -4.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 84.0,
+          "z": -6.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 82.0,
+          "z": -4.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 70.0,
+          "z": -6.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 31.0,
+          "y": 68.0,
+          "z": -5.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 29.0,
+          "y": 68.0,
+          "z": -10.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 33.0,
+          "y": 62.0,
+          "z": -9.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 28.0,
+          "y": 92.0,
+          "z": 38.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 33.0,
+          "y": 62.0,
+          "z": -9.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 28.0,
+          "y": 92.0,
+          "z": 38.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 27.0,
+          "y": 93.0,
+          "z": 38.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 70.0,
+          "z": 42.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 70.0,
+          "z": 45.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Mushroom",
+    "secrets": [
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 80.0,
+          "z": 2.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "New Trap",
+    "secrets": []
+  },
+  {
+    "name": "Old Trap",
+    "secrets": []
+  },
+  {
+    "name": "Overgrown",
+    "secrets": [
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 85.0,
+          "z": 2.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 87.0,
+          "z": 4.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 78.0,
+          "z": 0.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 81.0,
+          "z": 0.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 80.0,
+          "z": 0.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 79.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 70.0,
+          "z": -5.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -11.0,
+          "y": 70.0,
+          "z": -13.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Overgrown Chains",
+    "secrets": [
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 87.0,
+          "z": 4.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 86.0,
+          "z": 5.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -12.0,
+          "y": 81.0,
+          "z": -12.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Painting",
+    "secrets": [
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 69.0,
+          "z": 6.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 80.0,
+          "z": 6.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Pedestal",
+    "secrets": [
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 61.0,
+          "z": 7.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 36.0,
+          "y": 60.0,
+          "z": 4.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 70.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 17.0,
+          "y": 61.0,
+          "z": 11.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 17.0,
+          "y": 60.0,
+          "z": 8.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 94.0,
+          "z": 6.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Perch",
+    "secrets": [
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 74.0,
+          "z": -14.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 76.0,
+          "z": 5.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Pipes",
+    "secrets": [
+      {
+        "pos": {
+          "x": 37.0,
+          "y": 94.0,
+          "z": 0.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 19.0,
+          "y": 41.0,
+          "z": -5.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 19.0,
+          "y": 42.0,
+          "z": -8.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 34.0,
+          "y": 32.0,
+          "z": -9.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -2.0,
+          "y": 44.0,
+          "z": -2.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 46.0,
+          "z": -2.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 42.0,
+          "z": -12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 47.0,
+          "z": 4.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 53.0,
+          "z": 1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 39.0,
+          "y": 53.0,
+          "z": 3.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 48.0,
+          "y": 55.0,
+          "z": 11.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 90.0,
+          "y": 41.0,
+          "z": 0.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 91.0,
+          "y": 43.0,
+          "z": 0.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 92.0,
+          "y": 45.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 96.0,
+          "y": 54.0,
+          "z": 0.0
+        },
+        "type": "TNT_PEARL",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 107.0,
+          "y": 57.0,
+          "z": 4.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 105.0,
+          "y": 55.0,
+          "z": -7.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 104.0,
+          "y": 54.0,
+          "z": -10.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 103.0,
+          "y": 59.0,
+          "z": 0.0
+        },
+        "type": "PEARL_ETHER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 102.0,
+          "y": 62.0,
+          "z": 11.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Pirate",
+    "secrets": [
+      {
+        "pos": {
+          "x": 29.0,
+          "y": 77.0,
+          "z": 12.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 30.0,
+          "y": 81.0,
+          "z": 11.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 31.0,
+          "y": 84.0,
+          "z": 10.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 6.0,
+          "y": 59.0,
+          "z": -7.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 61.0,
+          "z": -6.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 60.0,
+          "z": -6.0
+        },
+        "type": "PEARL",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 60.0,
+          "z": -1.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 63.0,
+          "z": -1.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 61.0,
+          "z": -26.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 64.0,
+          "z": -26.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 68.0,
+          "z": -26.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 80.0,
+          "z": -26.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 82.0,
+          "z": -28.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 59.0,
+          "z": -4.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -11.0,
+          "y": 59.0,
+          "z": 11.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -11.0,
+          "y": 61.0,
+          "z": -41.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 4.0,
+          "y": 60.0,
+          "z": -43.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 81.0,
+          "z": 5.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 83.0,
+          "z": 13.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Pit",
+    "secrets": [
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 77.0,
+          "z": 8.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -12.0,
+          "y": 75.0,
+          "z": 10.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -11.0,
+          "y": 79.0,
+          "z": 13.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -12.0,
+          "y": 73.0,
+          "z": -12.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -12.0,
+          "y": 72.0,
+          "z": -12.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 65.0,
+          "z": -8.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 83.0,
+          "z": -6.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 88.0,
+          "z": -6.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 91.0,
+          "z": -6.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 98.0,
+          "y": 92.0,
+          "z": 13.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Pressure Plates",
+    "secrets": [
+      {
+        "pos": {
+          "x": -11.0,
+          "y": 70.0,
+          "z": 4.0
+        },
+        "type": "TNT_PEARL",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -11.0,
+          "y": 69.0,
+          "z": 8.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 71.0,
+          "z": 10.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 70.0,
+          "z": 1.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 70.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 36.0,
+          "y": 70.0,
+          "z": -9.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 42.0,
+          "y": 68.0,
+          "z": -8.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 57.0,
+          "z": -3.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 59.0,
+          "z": -8.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 79.0,
+          "z": 0.0
+        },
+        "type": "PEARL_ETHER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 6.0,
+          "y": 83.0,
+          "z": 0.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 44.0,
+          "y": 94.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 44.0,
+          "y": 93.0,
+          "z": -2.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 44.0,
+          "y": 94.0,
+          "z": -3.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 45.0,
+          "y": 94.0,
+          "z": -8.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 44.0,
+          "y": 92.0,
+          "z": -5.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Prison Cell",
+    "secrets": [
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 73.0,
+          "z": 8.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 76.0,
+          "z": 8.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Purple Flags",
+    "secrets": [
+      {
+        "pos": {
+          "x": 17.0,
+          "y": 69.0,
+          "z": -6.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 17.0,
+          "y": 67.0,
+          "z": -8.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 21.0,
+          "y": 58.0,
+          "z": 6.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 27.0,
+          "y": 58.0,
+          "z": 11.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 27.0,
+          "y": 57.0,
+          "z": 11.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 27.0,
+          "y": 57.0,
+          "z": 10.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 20.0,
+          "y": 55.0,
+          "z": 14.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 24.0,
+          "y": 49.0,
+          "z": 14.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 44.0,
+          "y": 49.0,
+          "z": 9.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 49.0,
+          "z": 13.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 50.0,
+          "z": 10.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 56.0,
+          "z": 12.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 57.0,
+          "z": 13.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Quad Lava",
+    "secrets": [
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 70.0,
+          "z": 10.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 4.0,
+          "y": 60.0,
+          "z": -5.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Quartz Knight",
+    "secrets": [
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 63.0,
+          "z": 12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 6.0,
+          "y": 89.0,
+          "z": 9.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 90.0,
+          "z": 10.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 90.0,
+          "z": 9.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 24.0,
+          "y": 77.0,
+          "z": -1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 49.0,
+          "y": 81.0,
+          "z": -10.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 50.0,
+          "y": 83.0,
+          "z": -10.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 50.0,
+          "y": 83.0,
+          "z": -8.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 54.0,
+          "y": 83.0,
+          "z": -9.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 58.0,
+          "y": 72.0,
+          "z": -9.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 80.0,
+          "y": 79.0,
+          "z": 10.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 80.0,
+          "y": 78.0,
+          "z": 11.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 103.0,
+          "y": 86.0,
+          "z": -9.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 102.0,
+          "y": 88.0,
+          "z": -12.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 96.0,
+          "y": 88.0,
+          "z": -13.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 62.0,
+          "z": 2.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Quiz",
+    "secrets": []
+  },
+  {
+    "name": "Raccoon",
+    "secrets": [
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 77.0,
+          "z": 9.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 82.0,
+          "z": 1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 83.0,
+          "z": 1.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 84.0,
+          "z": 1.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 84.0,
+          "z": -7.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 84.0,
+          "z": -7.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 74.0,
+          "z": 7.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 69.0,
+          "z": 9.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 70.0,
+          "z": 13.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 6.0,
+          "y": 69.0,
+          "z": 9.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 68.0,
+          "z": -3.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Rail Track",
+    "secrets": []
+  },
+  {
+    "name": "Rails",
+    "secrets": [
+      {
+        "pos": {
+          "x": 24.0,
+          "y": 71.0,
+          "z": 30.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 48.0,
+          "z": 38.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 49.0,
+          "z": 45.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 69.0,
+          "z": 23.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 15.0,
+          "y": 72.0,
+          "z": 19.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 71.0,
+          "z": 20.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 70.0,
+          "z": 13.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 70.0,
+          "z": 13.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 70.0,
+          "z": 14.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 72.0,
+          "z": 14.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 67.0,
+          "z": 14.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 15.0,
+          "y": 64.0,
+          "z": 14.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 53.0,
+          "z": -9.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 49.0,
+          "z": -5.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -12.0,
+          "y": 49.0,
+          "z": -5.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 33.0,
+          "y": 48.0,
+          "z": 12.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 41.0,
+          "y": 52.0,
+          "z": -4.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 31.0,
+          "y": 68.0,
+          "z": 8.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 41.0,
+          "y": 68.0,
+          "z": -9.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 41.0,
+          "y": 66.0,
+          "z": -9.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Rare Overgrown",
+    "secrets": []
+  },
+  {
+    "name": "Rare Pillars",
+    "secrets": []
+  },
+  {
+    "name": "Red Blue",
+    "secrets": [
+      {
+        "pos": {
+          "x": 62.0,
+          "y": 82.0,
+          "z": 1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 64.0,
+          "y": 83.0,
+          "z": 0.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 46.0,
+          "y": 87.0,
+          "z": 6.0
+        },
+        "type": "PEARL",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 45.0,
+          "y": 85.0,
+          "z": 7.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 39.0,
+          "y": 69.0,
+          "z": -10.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 40.0,
+          "y": 70.0,
+          "z": -9.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 42.0,
+          "y": 70.0,
+          "z": -10.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 28.0,
+          "y": 84.0,
+          "z": 4.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 26.0,
+          "y": 89.0,
+          "z": 8.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 25.0,
+          "y": 90.0,
+          "z": 10.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 24.0,
+          "y": 90.0,
+          "z": 11.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Red Green",
+    "secrets": [
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 74.0,
+          "z": 0.0
+        },
+        "type": "TNT_PEARL",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 75.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -14.0,
+          "y": 60.0,
+          "z": 0.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 76.0,
+          "z": 11.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 76.0,
+          "z": 13.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 77.0,
+          "z": 13.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 76.0,
+          "z": 13.0
+        },
+        "type": "STONK",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Redstone Crypt",
+    "secrets": [
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 70.0,
+          "z": -9.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 69.0,
+          "z": -12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 70.0,
+          "z": -9.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -11.0,
+          "y": 71.0,
+          "z": -11.0
+        },
+        "type": "REDSTONE_KEY",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 69.0,
+          "z": 0.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 68.0,
+          "z": 0.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 70.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 72.0,
+          "z": -9.0
+        },
+        "type": "REDSTONE_BLOCK",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Redstone Key",
+    "secrets": [
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 70.0,
+          "z": 8.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 70.0,
+          "z": 12.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 70.0,
+          "z": 10.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 70.0,
+          "z": 11.0
+        },
+        "type": "REDSTONE_KEY",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 67.0,
+          "z": -8.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 4.0,
+          "y": 66.0,
+          "z": -8.0
+        },
+        "type": "REDSTONE_KEY",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 69.0,
+          "z": -10.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 68.0,
+          "z": -8.0
+        },
+        "type": "REDSTONE_BLOCK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 62.0,
+          "z": 8.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Redstone Warrior",
+    "secrets": [
+      {
+        "pos": {
+          "x": 43.0,
+          "y": 76.0,
+          "z": 11.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 43.0,
+          "y": 77.0,
+          "z": 14.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 19.0,
+          "y": 76.0,
+          "z": 12.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 19.0,
+          "y": 78.0,
+          "z": 14.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 81.0,
+          "z": 13.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 15.0,
+          "y": 83.0,
+          "z": 12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 59.0,
+          "z": 0.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 58.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Ritual",
+    "secrets": [
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 69.0,
+          "z": -13.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 77.0,
+          "z": -9.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 80.0,
+          "z": -12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 86.0,
+          "z": 9.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Sand Dragon",
+    "secrets": [
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 86.0,
+          "z": 11.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Sarcophagus",
+    "secrets": [
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 70.0,
+          "z": -7.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 69.0,
+          "z": -11.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 68.0,
+          "z": 12.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 71.0,
+          "z": 12.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Scaffolding",
+    "secrets": [
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 82.0,
+          "z": 13.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 82.0,
+          "z": -7.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Shadow Assassin",
+    "secrets": []
+  },
+  {
+    "name": "Silver Sword",
+    "secrets": [
+      {
+        "pos": {
+          "x": 6.0,
+          "y": 70.0,
+          "z": -2.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 69.0,
+          "z": -2.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Skull",
+    "secrets": [
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 88.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 37.0,
+          "y": 91.0,
+          "z": -8.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Slabs",
+    "secrets": [
+      {
+        "pos": {
+          "x": 7.0,
+          "y": 85.0,
+          "z": -12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 85.0,
+          "z": -12.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Slime",
+    "secrets": [
+      {
+        "pos": {
+          "x": 75.0,
+          "y": 56.0,
+          "z": 0.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 52.0,
+          "z": 0.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 15.0,
+          "y": 85.0,
+          "z": -1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 87.0,
+          "z": -1.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 88.0,
+          "z": -1.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 6.0,
+          "y": 88.0,
+          "z": -1.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 86.0,
+          "z": 0.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -12.0,
+          "y": 85.0,
+          "z": -5.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Sloth",
+    "secrets": [
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 70.0,
+          "z": 7.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 69.0,
+          "z": 7.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Small Stairs",
+    "secrets": [
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 62.0,
+          "z": -13.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -12.0,
+          "y": 82.0,
+          "z": -2.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -12.0,
+          "y": 82.0,
+          "z": -9.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Small Waterfall",
+    "secrets": [
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 77.0,
+          "z": 11.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -12.0,
+          "y": 82.0,
+          "z": 7.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Spider",
+    "secrets": [
+      {
+        "pos": {
+          "x": 34.0,
+          "y": 83.0,
+          "z": 21.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 34.0,
+          "y": 84.0,
+          "z": 21.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 40.0,
+          "y": 87.0,
+          "z": 20.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 34.0,
+          "y": 85.0,
+          "z": 22.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 20.0,
+          "y": 68.0,
+          "z": 33.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 82.0,
+          "z": 41.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 83.0,
+          "z": 41.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 90.0,
+          "z": 40.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 92.0,
+          "z": 21.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 92.0,
+          "z": 16.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 4.0,
+          "y": 92.0,
+          "z": 19.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 93.0,
+          "z": 19.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 91.0,
+          "z": 19.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 93.0,
+          "z": 17.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 94.0,
+          "z": 20.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 96.0,
+          "z": 21.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 93.0,
+          "z": 22.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 84.0,
+          "z": 35.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 86.0,
+          "z": 36.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 83.0,
+          "z": 41.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 83.0,
+          "z": 38.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 20.0,
+          "y": 45.0,
+          "z": 32.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 47.0,
+          "z": 25.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 7.0,
+          "y": 28.0,
+          "z": 25.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 50.0,
+          "z": -11.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Spikes",
+    "secrets": [
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 90.0,
+          "z": -3.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -11.0,
+          "y": 91.0,
+          "z": -4.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -14.0,
+          "y": 53.0,
+          "z": -7.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 55.0,
+          "z": -7.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Staircase",
+    "secrets": [
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 66.0,
+          "z": -9.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 66.0,
+          "z": -12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 72.0,
+          "z": -4.0
+        },
+        "type": "PEARL_ETHER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 75.0,
+          "z": -10.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 7.0,
+          "y": 75.0,
+          "z": -13.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 77.0,
+          "z": 7.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 78.0,
+          "z": 11.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Stairs",
+    "secrets": [
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 71.0,
+          "z": -6.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 70.0,
+          "z": -6.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 78.0,
+          "z": 13.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 29.0,
+          "y": 82.0,
+          "z": 12.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 29.0,
+          "y": 86.0,
+          "z": 13.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 29.0,
+          "y": 88.0,
+          "z": 13.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 17.0,
+          "y": 87.0,
+          "z": 9.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 88.0,
+          "z": 7.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 23.0,
+          "y": 86.0,
+          "z": 21.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Steps",
+    "secrets": [
+      {
+        "pos": {
+          "x": -2.0,
+          "y": 75.0,
+          "z": -13.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Stone Window",
+    "secrets": [
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 72.0,
+          "z": 1.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 80.0,
+          "z": -7.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Supertall",
+    "secrets": [
+      {
+        "pos": {
+          "x": -14.0,
+          "y": 74.0,
+          "z": -12.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 81.0,
+          "z": 1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 86.0,
+          "z": 3.0
+        },
+        "type": "PEARL_ETHER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 90.0,
+          "z": 27.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 98.0,
+          "z": 35.0
+        },
+        "type": "PEARL_ETHER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 101.0,
+          "z": 38.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 19.0,
+          "y": 109.0,
+          "z": 36.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 39.0,
+          "y": 112.0,
+          "z": -7.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 116.0,
+          "z": -5.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 7.0,
+          "y": 131.0,
+          "z": -6.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 131.0,
+          "z": -8.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 142.0,
+          "z": 36.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 16.0,
+          "y": 142.0,
+          "z": 41.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 21.0,
+          "y": 142.0,
+          "z": 36.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 142.0,
+          "z": 36.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 34.0,
+          "y": 142.0,
+          "z": 32.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Teleport Maze",
+    "secrets": []
+  },
+  {
+    "name": "Temple",
+    "secrets": [
+      {
+        "pos": {
+          "x": 4.0,
+          "y": 77.0,
+          "z": 11.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 78.0,
+          "z": 13.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 68.0,
+          "z": 9.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 59.0,
+          "z": 9.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 53.0,
+          "z": 1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 1.0,
+          "y": 54.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 53.0,
+          "z": 10.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -12.0,
+          "y": 61.0,
+          "z": 10.0
+        },
+        "type": "PEARL_ETHER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 65.0,
+          "z": 10.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Three Floors",
+    "secrets": []
+  },
+  {
+    "name": "Three Weirdos",
+    "secrets": []
+  },
+  {
+    "name": "Tic Tac Toe",
+    "secrets": [
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 69.0,
+          "z": 10.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Tombstone",
+    "secrets": []
+  },
+  {
+    "name": "Tomioka",
+    "secrets": []
+  },
+  {
+    "name": "Vinny 8 Ball",
+    "secrets": [
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 80.0,
+          "z": -14.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 69.0,
+          "z": 2.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Water",
+    "secrets": [
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 70.0,
+          "z": -8.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 69.0,
+          "z": -10.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 67.0,
+          "z": -11.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Water Board",
+    "secrets": []
+  },
+  {
+    "name": "Waterfall",
+    "secrets": [
+      {
+        "pos": {
+          "x": 84.0,
+          "y": 80.0,
+          "z": -7.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 106.0,
+          "y": 81.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 85.0,
+          "y": 85.0,
+          "z": 1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 68.0,
+          "y": 76.0,
+          "z": -8.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 68.0,
+          "y": 78.0,
+          "z": -10.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 67.0,
+          "y": 78.0,
+          "z": -12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 55.0,
+          "y": 61.0,
+          "z": -8.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 55.0,
+          "y": 61.0,
+          "z": -13.0
+        },
+        "type": "BAT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 31.0,
+          "y": 81.0,
+          "z": 10.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 27.0,
+          "y": 82.0,
+          "z": 6.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 26.0,
+          "y": 84.0,
+          "z": 8.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 25.0,
+          "y": 89.0,
+          "z": 8.0
+        },
+        "type": "PEARL",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 19.0,
+          "y": 84.0,
+          "z": 8.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -7.0,
+          "y": 43.0,
+          "z": 13.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 31.0,
+          "y": 45.0,
+          "z": 11.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 44.0,
+          "z": 12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 73.0,
+          "y": 44.0,
+          "z": 12.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Well",
+    "secrets": [
+      {
+        "pos": {
+          "x": 43.0,
+          "y": 86.0,
+          "z": 32.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 45.0,
+          "y": 89.0,
+          "z": 32.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 44.0,
+          "y": 91.0,
+          "z": 21.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 41.0,
+          "y": 95.0,
+          "z": 20.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 87.0,
+          "z": 35.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -2.0,
+          "y": 89.0,
+          "z": 35.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 88.0,
+          "z": 35.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 88.0,
+          "z": 41.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -11.0,
+          "y": 94.0,
+          "z": 43.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -13.0,
+          "y": 95.0,
+          "z": 44.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 95.0,
+          "z": 41.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 88.0,
+          "z": 44.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -2.0,
+          "y": 87.0,
+          "z": 39.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 87.0,
+          "z": 27.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 89.0,
+          "z": 10.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 3.0,
+          "y": 91.0,
+          "z": 10.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 57.0,
+          "z": 1.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 60.0,
+          "z": 1.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Withermancer",
+    "secrets": [
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 112.0,
+          "z": 0.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 111.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 106.0,
+          "z": 4.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 104.0,
+          "z": 5.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -14.0,
+          "y": 111.0,
+          "z": 0.0
+        },
+        "type": "ESSENCE",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 102.0,
+          "z": 18.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 39.0,
+          "y": 82.0,
+          "z": 37.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 42.0,
+          "y": 69.0,
+          "z": 28.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 42.0,
+          "y": 68.0,
+          "z": 28.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 43.0,
+          "y": 55.0,
+          "z": 36.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 44.0,
+          "y": 55.0,
+          "z": 30.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 41.0,
+          "y": 67.0,
+          "z": 30.0
+        },
+        "type": "PEARL_ETHER",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Wizard",
+    "secrets": [
+      {
+        "pos": {
+          "x": -9.0,
+          "y": 76.0,
+          "z": 5.0
+        },
+        "type": "PEARL",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -12.0,
+          "y": 75.0,
+          "z": 6.0
+        },
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 88.0,
+          "z": 7.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 5.0,
+          "y": 92.0,
+          "z": 10.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 92.0,
+          "z": 11.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 18.0,
+          "y": 89.0,
+          "z": 11.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 18.0,
+          "y": 88.0,
+          "z": 11.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 59.0,
+          "y": 82.0,
+          "z": 9.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 75.0,
+          "y": 89.0,
+          "z": 9.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  },
+  {
+    "name": "Zodd",
+    "secrets": [
+      {
+        "pos": {
+          "x": -8.0,
+          "y": 70.0,
+          "z": -12.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
+  }
+]
