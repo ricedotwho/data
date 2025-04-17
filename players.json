@@ -1,4 +1,4 @@
 {
-  "LFscrolls":{"xScale":1.0,"yScale":1.0,"zScale":1.0,"wings":true,"wingsColour":{"hsba":[249,0,100,255],"chroma":false,"chromaSpeed":1.0,"dataBit":-1},"child":false},
-  "SpyLume":{"xScale":1.0,"yScale":1.0,"zScale":1.0,"wings":true,"wingsColour":{"hsba":[261,0,100,255],"chroma":false,"chromaSpeed":1.0,"dataBit":-1},"child":false}
+  {"LFscrolls":{"xScale":1.0,"yScale":1.0,"zScale":1.0,"wings":true,"wingsColour":{"hsba":[165,99,100,255],"dataBit":30000},"child":false}},
+  "SpyLume":{"xScale":1.0,"yScale":1.0,"zScale":1.0,"wings":true,"wingsColour":{"hsba":[261,0,100,255],"dataBit":-1},"child":false}
 }
