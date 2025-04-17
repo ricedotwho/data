@@ -716,6 +716,24 @@
     "secrets": [
       {
         "pos": {
+          "x": 1.0,
+          "y": 68.0,
+          "z": 16.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 38.0,
+          "y": 55.0,
+          "z": 16.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
           "x": -3.0,
           "y": 80.0,
           "z": 32.0
@@ -744,7 +762,7 @@
       {
         "pos": {
           "x": -8.0,
-          "y": 84.0,
+          "y": 82.0,
           "z": 32.0
         },
         "type": "PEARL",
@@ -752,11 +770,29 @@
       },
       {
         "pos": {
-          "x": -7.0,
-          "y": 86.0,
+          "x": -8.0,
+          "y": 84.0,
           "z": 32.0
         },
         "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -6.0,
+          "y": 81.0,
+          "z": 32.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 84.0,
+          "z": 32.0
+        },
+        "type": "STONK_EXIT",
         "found": false
       },
       {
@@ -788,9 +824,9 @@
       },
       {
         "pos": {
-          "x": 29.0,
+          "x": 32.0,
           "y": 68.0,
-          "z": 42.0
+          "z": 43.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -815,7 +851,7 @@
       },
       {
         "pos": {
-          "x": 41.0,
+          "x": 42.0,
           "y": 70.0,
           "z": 39.0
         },
@@ -862,7 +898,7 @@
         "pos": {
           "x": 19.0,
           "y": 73.0,
-          "z": -1.0
+          "z": -2.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -870,8 +906,8 @@
       {
         "pos": {
           "x": 18.0,
-          "y": 74.0,
-          "z": -1.0
+          "y": 75.0,
+          "z": -2.0
         },
         "type": "STONK",
         "found": false
@@ -887,16 +923,7 @@
       },
       {
         "pos": {
-          "x": 41.0,
-          "y": 68.0,
-          "z": -1.0
-        },
-        "type": "ETHERWARP",
-        "found": false
-      },
-      {
-        "pos": {
-          "x": 41.0,
+          "x": 42.0,
           "y": 79.0,
           "z": -2.0
         },
@@ -1318,11 +1345,20 @@
     "secrets": [
       {
         "pos": {
-          "x": 12.0,
-          "y": 69.0,
-          "z": -5.0
+          "x": 0.0,
+          "y": 79.0,
+          "z": -1.0
         },
-        "type": "CHEST",
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 2.0,
+          "y": 83.0,
+          "z": -1.0
+        },
+        "type": "STONK",
         "found": false
       },
       {
@@ -1330,6 +1366,33 @@
           "x": 2.0,
           "y": 86.0,
           "z": -1.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 69.0,
+          "z": -4.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 9.0,
+          "y": 70.0,
+          "z": -4.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 69.0,
+          "z": -5.0
         },
         "type": "CHEST",
         "found": false
@@ -1483,7 +1546,17 @@
   },
   {
     "name": "Creeper Beams",
-    "secrets": []
+    "secrets": [
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 69.0,
+          "z": 0.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
   },
   {
     "name": "Criss-Cross",
@@ -2508,11 +2581,38 @@
     "secrets": [
       {
         "pos": {
-          "x": -3.0,
-          "y": 63.0,
-          "z": 8.0
+          "x": 14.0,
+          "y": 71.0,
+          "z": 10.0
         },
-        "type": "CHEST",
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -4.0,
+          "y": 71.0,
+          "z": -7.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 71.0,
+          "z": -7.0
+        },
+        "type": "REDSTONE_KEY",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -5.0,
+          "y": 71.0,
+          "z": -12.0
+        },
+        "type": "REDSTONE_BLOCK",
         "found": false
       },
       {
@@ -2527,10 +2627,10 @@
       {
         "pos": {
           "x": -3.0,
-          "y": 71.0,
-          "z": -7.0
+          "y": 63.0,
+          "z": 8.0
         },
-        "type": "REDSTONE_KEY",
+        "type": "CHEST",
         "found": false
       }
     ]
@@ -2816,6 +2916,33 @@
     "secrets": [
       {
         "pos": {
+          "x": 14.0,
+          "y": 70.0,
+          "z": -6.0
+        },
+        "type": "PEARL",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 69.0,
+          "z": -12.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 14.0,
+          "y": 75.0,
+          "z": -9.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
           "x": 77.0,
           "y": 76.0,
           "z": 5.0
@@ -2825,8 +2952,8 @@
       },
       {
         "pos": {
-          "x": 66.0,
-          "y": 77.0,
+          "x": 67.0,
+          "y": 78.0,
           "z": -14.0
         },
         "type": "ETHERWARP",
@@ -2843,47 +2970,11 @@
       },
       {
         "pos": {
-          "x": 36.0,
-          "y": 70.0,
-          "z": -10.0
-        },
-        "type": "STONK",
-        "found": false
-      },
-      {
-        "pos": {
           "x": 39.0,
           "y": 69.0,
           "z": -10.0
         },
         "type": "CHEST",
-        "found": false
-      },
-      {
-        "pos": {
-          "x": 14.0,
-          "y": 69.0,
-          "z": -6.0
-        },
-        "type": "TNT_PEARL",
-        "found": false
-      },
-      {
-        "pos": {
-          "x": 13.0,
-          "y": 69.0,
-          "z": -12.0
-        },
-        "type": "CHEST",
-        "found": false
-      },
-      {
-        "pos": {
-          "x": 13.0,
-          "y": 75.0,
-          "z": -9.0
-        },
-        "type": "ETHERWARP",
         "found": false
       }
     ]
@@ -2908,7 +2999,17 @@
   },
   {
     "name": "Ice Path",
-    "secrets": []
+    "secrets": [
+      {
+        "pos": {
+          "x": 0.0,
+          "y": 67.0,
+          "z": 13.0
+        },
+        "type": "CHEST",
+        "found": false
+      }
+    ]
   },
   {
     "name": "Jumping Skulls",
@@ -3017,7 +3118,7 @@
         "pos": {
           "x": 12.0,
           "y": 65.0,
-          "z": -18.0
+          "z": 14.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -3026,16 +3127,16 @@
         "pos": {
           "x": 12.0,
           "y": 66.0,
-          "z": -17.0
+          "z": 15.0
         },
         "type": "STONK_ENTER",
         "found": false
       },
       {
         "pos": {
-          "x": 1.0,
-          "y": 50.0,
-          "z": -15.0
+          "x": 0.0,
+          "y": 51.0,
+          "z": 17.0
         },
         "type": "ITEM_DROP",
         "found": false
@@ -3044,7 +3145,7 @@
         "pos": {
           "x": 13.0,
           "y": 66.0,
-          "z": 9.0
+          "z": 41.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -3053,7 +3154,7 @@
         "pos": {
           "x": 12.0,
           "y": 68.0,
-          "z": 10.0
+          "z": 42.0
         },
         "type": "STONK",
         "found": false
@@ -3062,7 +3163,7 @@
         "pos": {
           "x": 8.0,
           "y": 67.0,
-          "z": 10.0
+          "z": 42.0
         },
         "type": "CHEST",
         "found": false
@@ -3071,7 +3172,7 @@
         "pos": {
           "x": 26.0,
           "y": 85.0,
-          "z": 0.0
+          "z": 32.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -3080,7 +3181,7 @@
         "pos": {
           "x": 43.0,
           "y": 86.0,
-          "z": 0.0
+          "z": 32.0
         },
         "type": "CHEST",
         "found": false
@@ -3089,7 +3190,7 @@
         "pos": {
           "x": -7.0,
           "y": 84.0,
-          "z": -8.0
+          "z": 24.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -3098,7 +3199,7 @@
         "pos": {
           "x": -7.0,
           "y": 85.0,
-          "z": -6.0
+          "z": 26.0
         },
         "type": "STONK",
         "found": false
@@ -3107,16 +3208,16 @@
         "pos": {
           "x": -7.0,
           "y": 84.0,
-          "z": -5.0
+          "z": 27.0
         },
         "type": "LEVER",
         "found": false
       },
       {
         "pos": {
-          "x": -7.0,
+          "x": -6.0,
           "y": 91.0,
-          "z": -23.0
+          "z": 9.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -3125,7 +3226,7 @@
         "pos": {
           "x": -6.0,
           "y": 88.0,
-          "z": -35.0
+          "z": -3.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -3134,16 +3235,25 @@
         "pos": {
           "x": -6.0,
           "y": 89.0,
-          "z": -36.0
+          "z": -4.0
         },
         "type": "STONK_ENTER",
         "found": false
       },
       {
         "pos": {
+          "x": 9.0,
+          "y": 89.0,
+          "z": -5.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
           "x": 14.0,
           "y": 88.0,
-          "z": -40.0
+          "z": -6.0
         },
         "type": "CHEST",
         "found": false
@@ -3152,9 +3262,18 @@
         "pos": {
           "x": 14.0,
           "y": 88.0,
-          "z": -38.0
+          "z": -8.0
         },
         "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -3.0,
+          "y": 65.0,
+          "z": 18.0
+        },
+        "type": "BAT",
         "found": false
       }
     ]
@@ -3162,6 +3281,24 @@
   {
     "name": "Layers",
     "secrets": [
+      {
+        "pos": {
+          "x": -1.0,
+          "y": 71.0,
+          "z": 10.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -2.0,
+          "y": 69.0,
+          "z": 11.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
       {
         "pos": {
           "x": 10.0,
@@ -3499,108 +3636,99 @@
     "secrets": [
       {
         "pos": {
-          "x": -8.0,
+          "x": 4.0,
           "y": 77.0,
-          "z": 4.0
+          "z": 8.0
         },
         "type": "ETHERWARP",
         "found": false
       },
       {
         "pos": {
-          "x": -8.0,
+          "x": 4.0,
           "y": 80.0,
-          "z": 4.0
+          "z": 8.0
         },
         "type": "ETHERWARP",
         "found": false
       },
       {
         "pos": {
-          "x": -10.0,
+          "x": 13.0,
           "y": 81.0,
-          "z": 13.0
+          "z": 10.0
         },
         "type": "CHEST",
         "found": false
       },
       {
         "pos": {
-          "x": -9.0,
+          "x": 13.0,
           "y": 82.0,
-          "z": 13.0
+          "z": 9.0
         },
         "type": "ETHERWARP",
         "found": false
       },
       {
         "pos": {
-          "x": -8.0,
+          "x": 13.0,
           "y": 84.0,
-          "z": 13.0
+          "z": 8.0
         },
         "type": "STONK_ENTER",
         "found": false
       },
       {
         "pos": {
-          "x": -2.0,
+          "x": 13.0,
           "y": 84.0,
-          "z": 13.0
+          "z": 2.0
         },
         "type": "STONK_EXIT",
         "found": false
       },
       {
         "pos": {
-          "x": 0.0,
+          "x": 13.0,
           "y": 82.0,
-          "z": 13.0
+          "z": 0.0
         },
         "type": "CHEST",
         "found": false
       },
       {
         "pos": {
-          "x": -5.0,
+          "x": -1.0,
           "y": 70.0,
-          "z": -1.0
+          "z": 5.0
         },
         "type": "ETHERWARP",
         "found": false
       },
       {
         "pos": {
-          "x": -5.0,
+          "x": -1.0,
           "y": 69.0,
-          "z": -1.0
+          "z": 5.0
         },
         "type": "STONK_ENTER",
         "found": false
       },
       {
         "pos": {
-          "x": -5.0,
-          "y": 66.0,
-          "z": -1.0
-        },
-        "type": "STONK_EXIT",
-        "found": false
-      },
-      {
-        "pos": {
-          "x": -8.0,
+          "x": 3.0,
           "y": 62.0,
-          "z": 3.0
+          "z": 8.0
         },
         "type": "CHEST",
         "found": false
       },
       {
         "pos": {
-          "x": -8.0,
+          "x": 1.0,
           "y": 68.0,
-          "z": 1.0
+          "z": 8.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -4467,6 +4595,15 @@
     "secrets": [
       {
         "pos": {
+          "x": 11.0,
+          "y": 70.0,
+          "z": -4.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
           "x": 10.0,
           "y": 70.0,
           "z": -11.0
@@ -4655,7 +4792,116 @@
   },
   {
     "name": "New Trap",
-    "secrets": []
+    "secrets": [
+      {
+        "pos": {
+          "x": 13.0,
+          "y": 74.0,
+          "z": -5.0
+        },
+        "type": "PEARL",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 76.0,
+          "z": -5.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 76.0,
+          "z": 3.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 89.0,
+          "z": 0.0
+        },
+        "type": "PEARL",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 10.0,
+          "y": 89.0,
+          "z": -1.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 90.0,
+          "z": -1.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 79.0,
+          "z": -5.0
+        },
+        "type": "PEARL",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 78.0,
+          "z": -4.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 11.0,
+          "y": 78.0,
+          "z": -7.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 7.0,
+          "y": 66.0,
+          "z": 5.0
+        },
+        "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -10.0,
+          "y": 67.0,
+          "z": -3.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 6.0,
+          "y": 92.0,
+          "z": 5.0
+        },
+        "type": "BAT",
+        "found": false
+      }
+    ]
   },
   {
     "name": "Old Trap",
@@ -4894,6 +5140,15 @@
       {
         "pos": {
           "x": -9.0,
+          "y": 79.0,
+          "z": 6.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -9.0,
           "y": 80.0,
           "z": 6.0
         },
@@ -4998,7 +5253,7 @@
       },
       {
         "pos": {
-          "x": 19.0,
+          "x": 20.0,
           "y": 41.0,
           "z": -5.0
         },
@@ -5007,7 +5262,7 @@
       },
       {
         "pos": {
-          "x": 19.0,
+          "x": 18.0,
           "y": 42.0,
           "z": -8.0
         },
@@ -5052,9 +5307,9 @@
       },
       {
         "pos": {
-          "x": -6.0,
+          "x": -10.0,
           "y": 47.0,
-          "z": 4.0
+          "z": 5.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -5097,15 +5352,6 @@
       },
       {
         "pos": {
-          "x": 91.0,
-          "y": 43.0,
-          "z": 0.0
-        },
-        "type": "STONK",
-        "found": false
-      },
-      {
-        "pos": {
           "x": 92.0,
           "y": 45.0,
           "z": 0.0
@@ -5115,11 +5361,20 @@
       },
       {
         "pos": {
-          "x": 96.0,
+          "x": 95.0,
           "y": 54.0,
-          "z": 0.0
+          "z": -2.0
         },
-        "type": "TNT_PEARL",
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 96.0,
+          "y": 55.0,
+          "z": -2.0
+        },
+        "type": "STONK_ENTER",
         "found": false
       },
       {
@@ -5166,6 +5421,15 @@
         },
         "type": "CHEST",
         "found": false
+      },
+      {
+        "pos": {
+          "x": 102.0,
+          "y": 66.0,
+          "z": 9.0
+        },
+        "type": "PEARL_ETHER",
+        "found": false
       }
     ]
   },
@@ -5176,7 +5440,7 @@
         "pos": {
           "x": 29.0,
           "y": 77.0,
-          "z": 12.0
+          "z": 44.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -5185,7 +5449,34 @@
         "pos": {
           "x": 30.0,
           "y": 81.0,
-          "z": 11.0
+          "z": 43.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 30.0,
+          "y": 81.0,
+          "z": 42.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 31.0,
+          "y": 81.0,
+          "z": 43.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 31.0,
+          "y": 81.0,
+          "z": 42.0
         },
         "type": "STONK",
         "found": false
@@ -5194,7 +5485,7 @@
         "pos": {
           "x": 31.0,
           "y": 84.0,
-          "z": 10.0
+          "z": 42.0
         },
         "type": "CHEST",
         "found": false
@@ -5203,7 +5494,7 @@
         "pos": {
           "x": 6.0,
           "y": 59.0,
-          "z": -7.0
+          "z": 25.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -5211,17 +5502,17 @@
       {
         "pos": {
           "x": 3.0,
-          "y": 61.0,
-          "z": -6.0
+          "y": 60.0,
+          "z": 26.0
         },
         "type": "SUPERBOOM",
         "found": false
       },
       {
         "pos": {
-          "x": 0.0,
-          "y": 60.0,
-          "z": -6.0
+          "x": 3.0,
+          "y": 61.0,
+          "z": 26.0
         },
         "type": "PEARL",
         "found": false
@@ -5230,16 +5521,16 @@
         "pos": {
           "x": 0.0,
           "y": 60.0,
-          "z": -1.0
+          "z": 31.0
         },
         "type": "CHEST",
         "found": false
       },
       {
         "pos": {
-          "x": 2.0,
+          "x": 0.0,
           "y": 63.0,
-          "z": -1.0
+          "z": 31.0
         },
         "type": "BAT",
         "found": false
@@ -5248,7 +5539,7 @@
         "pos": {
           "x": 1.0,
           "y": 61.0,
-          "z": -26.0
+          "z": 6.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -5257,7 +5548,7 @@
         "pos": {
           "x": 1.0,
           "y": 64.0,
-          "z": -26.0
+          "z": 6.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -5266,7 +5557,7 @@
         "pos": {
           "x": 1.0,
           "y": 68.0,
-          "z": -26.0
+          "z": 6.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -5275,7 +5566,7 @@
         "pos": {
           "x": 1.0,
           "y": 80.0,
-          "z": -26.0
+          "z": 6.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -5284,52 +5575,16 @@
         "pos": {
           "x": 0.0,
           "y": 82.0,
-          "z": -28.0
+          "z": 4.0
         },
         "type": "LEVER",
         "found": false
       },
       {
         "pos": {
-          "x": -9.0,
-          "y": 59.0,
-          "z": -4.0
-        },
-        "type": "ETHERWARP",
-        "found": false
-      },
-      {
-        "pos": {
-          "x": -11.0,
-          "y": 59.0,
-          "z": 11.0
-        },
-        "type": "ITEM_DROP",
-        "found": false
-      },
-      {
-        "pos": {
-          "x": -11.0,
-          "y": 61.0,
-          "z": -41.0
-        },
-        "type": "ETHERWARP",
-        "found": false
-      },
-      {
-        "pos": {
-          "x": 4.0,
-          "y": 60.0,
-          "z": -43.0
-        },
-        "type": "ESSENCE",
-        "found": false
-      },
-      {
-        "pos": {
-          "x": -1.0,
+          "x": 1.0,
           "y": 81.0,
-          "z": 5.0
+          "z": 37.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -5338,9 +5593,27 @@
         "pos": {
           "x": 2.0,
           "y": 83.0,
-          "z": 13.0
+          "z": 45.0
         },
         "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": -11.0,
+          "y": 59.0,
+          "z": 0.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 4.0,
+          "y": 60.0,
+          "z": -11.0
+        },
+        "type": "ESSENCE",
         "found": false
       }
     ]
@@ -5445,18 +5718,18 @@
     "secrets": [
       {
         "pos": {
-          "x": -11.0,
-          "y": 70.0,
-          "z": 4.0
+          "x": -3.0,
+          "y": 69.0,
+          "z": 10.0
         },
-        "type": "TNT_PEARL",
+        "type": "STONK_ENTER",
         "found": false
       },
       {
         "pos": {
           "x": -11.0,
-          "y": 69.0,
-          "z": 8.0
+          "y": 70.0,
+          "z": 9.0
         },
         "type": "ITEM_DROP",
         "found": false
@@ -5474,7 +5747,7 @@
         "pos": {
           "x": 3.0,
           "y": 70.0,
-          "z": 1.0
+          "z": -1.0
         },
         "type": "STONK",
         "found": false
@@ -5490,25 +5763,7 @@
       },
       {
         "pos": {
-          "x": 36.0,
-          "y": 70.0,
-          "z": -9.0
-        },
-        "type": "SUPERBOOM",
-        "found": false
-      },
-      {
-        "pos": {
-          "x": 42.0,
-          "y": 68.0,
-          "z": -8.0
-        },
-        "type": "ITEM_DROP",
-        "found": false
-      },
-      {
-        "pos": {
-          "x": 13.0,
+          "x": 14.0,
           "y": 57.0,
           "z": -3.0
         },
@@ -5526,11 +5781,20 @@
       },
       {
         "pos": {
-          "x": 8.0,
-          "y": 79.0,
-          "z": 0.0
+          "x": 11.0,
+          "y": 81.0,
+          "z": -10.0
         },
-        "type": "PEARL_ETHER",
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 7.0,
+          "y": 81.0,
+          "z": -1.0
+        },
+        "type": "ETHERWARP",
         "found": false
       },
       {
@@ -5540,6 +5804,15 @@
           "z": 0.0
         },
         "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 35.0,
+          "y": 91.0,
+          "z": 0.0
+        },
+        "type": "ETHERWARP",
         "found": false
       },
       {
@@ -5581,10 +5854,37 @@
       {
         "pos": {
           "x": 44.0,
-          "y": 92.0,
+          "y": 91.0,
           "z": -5.0
         },
-        "type": "STONK_ENTER",
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 41.0,
+          "y": 73.0,
+          "z": 8.0
+        },
+        "type": "ETHERWARP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 36.0,
+          "y": 70.0,
+          "z": -8.0
+        },
+        "type": "SUPERBOOM",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 43.0,
+          "y": 69.0,
+          "z": -8.0
+        },
+        "type": "ITEM_DROP",
         "found": false
       }
     ]
@@ -6321,10 +6621,10 @@
       {
         "pos": {
           "x": 8.0,
-          "y": 74.0,
+          "y": 75.0,
           "z": 0.0
         },
-        "type": "TNT_PEARL",
+        "type": "PEARL",
         "found": false
       },
       {
@@ -6339,15 +6639,15 @@
       {
         "pos": {
           "x": -14.0,
-          "y": 60.0,
-          "z": 0.0
+          "y": 61.0,
+          "z": 1.0
         },
         "type": "ITEM_DROP",
         "found": false
       },
       {
         "pos": {
-          "x": -3.0,
+          "x": -2.0,
           "y": 76.0,
           "z": 11.0
         },
@@ -6356,8 +6656,8 @@
       },
       {
         "pos": {
-          "x": -3.0,
-          "y": 76.0,
+          "x": -2.0,
+          "y": 77.0,
           "z": 13.0
         },
         "type": "ITEM_DROP",
@@ -6378,7 +6678,7 @@
           "y": 76.0,
           "z": 13.0
         },
-        "type": "STONK",
+        "type": "STONK_ENTER",
         "found": false
       }
     ]
@@ -6393,7 +6693,7 @@
           "z": -9.0
         },
         "type": "STONK",
-        "found": false
+        "found": true
       },
       {
         "pos": {
@@ -6402,7 +6702,7 @@
           "z": -12.0
         },
         "type": "CHEST",
-        "found": false
+        "found": true
       },
       {
         "pos": {
@@ -6411,7 +6711,7 @@
           "z": -9.0
         },
         "type": "STONK",
-        "found": false
+        "found": true
       },
       {
         "pos": {
@@ -6420,7 +6720,7 @@
           "z": -11.0
         },
         "type": "REDSTONE_KEY",
-        "found": false
+        "found": true
       },
       {
         "pos": {
@@ -6429,7 +6729,7 @@
           "z": 0.0
         },
         "type": "STONK",
-        "found": false
+        "found": true
       },
       {
         "pos": {
@@ -6438,7 +6738,7 @@
           "z": 0.0
         },
         "type": "LEVER",
-        "found": false
+        "found": true
       },
       {
         "pos": {
@@ -6447,7 +6747,7 @@
           "z": 0.0
         },
         "type": "CHEST",
-        "found": false
+        "found": true
       },
       {
         "pos": {
@@ -6993,7 +7293,7 @@
       },
       {
         "pos": {
-          "x": 40.0,
+          "x": 38.0,
           "y": 87.0,
           "z": 20.0
         },
@@ -7006,7 +7306,7 @@
           "y": 85.0,
           "z": 22.0
         },
-        "type": "STONK_ENTER",
+        "type": "STONK",
         "found": false
       },
       {
@@ -7083,20 +7383,20 @@
       },
       {
         "pos": {
-          "x": 9.0,
-          "y": 91.0,
-          "z": 19.0
-        },
-        "type": "ITEM_DROP",
-        "found": false
-      },
-      {
-        "pos": {
           "x": 12.0,
           "y": 93.0,
           "z": 17.0
         },
         "type": "LEVER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 8.0,
+          "y": 91.0,
+          "z": 17.0
+        },
+        "type": "ITEM_DROP",
         "found": false
       },
       {
@@ -7119,54 +7419,54 @@
       },
       {
         "pos": {
-          "x": 10.0,
-          "y": 93.0,
-          "z": 22.0
+          "x": 11.0,
+          "y": 90.0,
+          "z": 24.0
         },
-        "type": "STONK_EXIT",
+        "type": "ITEM_DROP",
         "found": false
       },
       {
         "pos": {
-          "x": -4.0,
+          "x": 12.0,
           "y": 84.0,
-          "z": 35.0
-        },
-        "type": "ETHERWARP",
-        "found": false
-      },
-      {
-        "pos": {
-          "x": -4.0,
-          "y": 86.0,
-          "z": 36.0
-        },
-        "type": "STONK_ENTER",
-        "found": false
-      },
-      {
-        "pos": {
-          "x": -5.0,
-          "y": 83.0,
-          "z": 41.0
+          "z": 17.0
         },
         "type": "CHEST",
         "found": false
       },
       {
         "pos": {
-          "x": -1.0,
-          "y": 83.0,
-          "z": 38.0
+          "x": 11.0,
+          "y": 84.0,
+          "z": 19.0
         },
         "type": "ETHERWARP",
         "found": false
       },
       {
         "pos": {
-          "x": 20.0,
+          "x": 12.0,
+          "y": 86.0,
+          "z": 19.0
+        },
+        "type": "STONK_ENTER",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 12.0,
+          "y": 86.0,
+          "z": 24.0
+        },
+        "type": "STONK_EXIT",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 23.0,
           "y": 45.0,
-          "z": 32.0
+          "z": 34.0
         },
         "type": "ETHERWARP",
         "found": false
@@ -7187,6 +7487,15 @@
           "z": 25.0
         },
         "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 4.0,
+          "y": 49.0,
+          "z": -9.0
+        },
+        "type": "ETHERWARP",
         "found": false
       },
       {
@@ -7765,7 +8074,7 @@
     "secrets": [
       {
         "pos": {
-          "x": 84.0,
+          "x": 85.0,
           "y": 80.0,
           "z": -7.0
         },
@@ -7829,7 +8138,7 @@
       {
         "pos": {
           "x": 55.0,
-          "y": 61.0,
+          "y": 62.0,
           "z": -13.0
         },
         "type": "BAT",
@@ -7837,63 +8146,36 @@
       },
       {
         "pos": {
-          "x": 31.0,
-          "y": 81.0,
-          "z": 10.0
+          "x": 57.0,
+          "y": 60.0,
+          "z": -10.0
         },
         "type": "ETHERWARP",
         "found": false
       },
       {
         "pos": {
-          "x": 27.0,
-          "y": 82.0,
-          "z": 6.0
+          "x": 57.0,
+          "y": 59.0,
+          "z": -10.0
         },
-        "type": "CHEST",
+        "type": "STONK_ENTER",
         "found": false
       },
       {
         "pos": {
-          "x": 26.0,
-          "y": 84.0,
-          "z": 8.0
-        },
-        "type": "STONK",
-        "found": false
-      },
-      {
-        "pos": {
-          "x": 25.0,
-          "y": 89.0,
-          "z": 8.0
-        },
-        "type": "PEARL",
-        "found": false
-      },
-      {
-        "pos": {
-          "x": 19.0,
-          "y": 84.0,
-          "z": 8.0
-        },
-        "type": "CHEST",
-        "found": false
-      },
-      {
-        "pos": {
-          "x": -7.0,
-          "y": 43.0,
+          "x": 73.0,
+          "y": 46.0,
           "z": 13.0
         },
-        "type": "ITEM_DROP",
+        "type": "BAT",
         "found": false
       },
       {
         "pos": {
-          "x": 31.0,
+          "x": 32.0,
           "y": 45.0,
-          "z": 11.0
+          "z": 12.0
         },
         "type": "SUPERBOOM",
         "found": false
@@ -7909,11 +8191,47 @@
       },
       {
         "pos": {
-          "x": 73.0,
-          "y": 44.0,
-          "z": 12.0
+          "x": -8.0,
+          "y": 43.0,
+          "z": 13.0
         },
-        "type": "BAT",
+        "type": "ITEM_DROP",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 19.0,
+          "y": 84.0,
+          "z": 8.0
+        },
+        "type": "CHEST",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 23.0,
+          "y": 84.0,
+          "z": 7.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 23.0,
+          "y": 83.0,
+          "z": 7.0
+        },
+        "type": "STONK",
+        "found": false
+      },
+      {
+        "pos": {
+          "x": 27.0,
+          "y": 82.0,
+          "z": 6.0
+        },
+        "type": "CHEST",
         "found": false
       }
     ]
