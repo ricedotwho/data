@@ -1,5 +1,5 @@
 {
   "lnstagramReels":{"xScale":-0.75,"yScale":0.75,"zScale":-0.75,"wings":false,"wingsColour":{"hsba":[334,0,100,255],"dataBit":-1}},
-  "LFscrolls":{"xScale":1.0,"yScale":1.0,"zScale":1.0,"wings":true,"wingsColour":{"hsba":[270,100,75,255],"dataBit":-1}},
+  "LFscrolls":{"xScale":1.0,"yScale":1.0,"zScale":1.0,"wings":false,"wingsColour":{"hsba":[270,100,75,255],"dataBit":-1}},
   "lfcarry":{"xScale":0.01,"yScale":1.0,"zScale":1.0,"wings":false,"wingsColour":{"hsba":[297,100,100,255],"dataBit":-1}}
 }
