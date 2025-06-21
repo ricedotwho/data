@@ -4,5 +4,7 @@
   "lfcarry":{"xScale":0.01,"yScale":1.0,"zScale":1.0,"wings":false,"wingsColour":{"hsba":[297,100,100,255],"dataBit":-1}},
   "lfgm7":{"xScale":0.9,"yScale":0.9,"zScale":0.9,"wings":true,"wingsColour":{"hsba":[312,100,100,255],"dataBit":-1}},
   "ILoveKismets":{"xScale":1.0,"yScale":-1.0,"zScale":1.0,"wings":false,"wingsColour":{"hsba":[270,100,75,255],"dataBit":-1}},
-  "Gentlemen1210":{"xScale":2.0,"yScale":0.75,"zScale":2.0,"wings":false,"wingsColour":{"hsba":[0,0,100,255],"dataBit":-1}}
+  "Gentlemen1210":{"xScale":2.0,"yScale":0.75,"zScale":2.0,"wings":false,"wingsColour":{"hsba":[0,0,100,255],"dataBit":-1}},
+  "Lyquidz":{"xScale":1.0,"yScale":1.0,"zScale":1.0,"wings":false,"wingsColour":{"hsba":[0,0,100,255],"dataBit":-1}},
+  "JosenHD":{"xScale":0.8,"yScale":1.25,"zScale":0.8,"wings":false,"wingsColour":{"hsba":[0,0,100,255],"dataBit":-1}}
 }
